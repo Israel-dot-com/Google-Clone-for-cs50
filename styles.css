@@ -1,0 +1,51 @@
+
+
+            .Nav{
+                text-align: end;
+                padding: 20px;
+                font-size: smaller;
+            }
+
+            .Googlelogo{
+                text-align: center;
+            }
+            .textbox{
+                
+                border-radius: 10px;
+                border: 2px;
+                text-align: center;
+              
+            }
+            .textbox:focus{
+                outline: none;
+            }
+
+            .buttons{
+                text-align: center;
+                
+                
+                
+            }
+            .buttons:hover{
+                color: whitesmoke;
+            }
+            b{
+                color: blue;
+                font-size: x-small;
+                font-weight: lighter;
+                
+                
+            }
+            .Languages{
+                text-align: center;
+                font-size: small;
+                font-weight: normal;
+            }
+            .Nigeria{
+                background-color: whitesmoke;
+                font-weight: lighter;
+            }
+            h6{
+                font-weight: lighter;
+            }
+        
